@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+
+<body>
+
+
+    <img style="width: 100%;height:100%;" src="https://picsum.photos/3000/400" alt="ewfetrhrheheegrgr">
+
+    <div class="column">
+
+    <h2>Alice in borderland and Squid Game</h2>
+
+
+
+    <p >01/22/2024</p>
+
+  
+
+    <div class="row">
+
+        <p>Alice in Borderland and Squid Game are two dramatic dramas that are intended to make the viewer cry, and not only how to cry, but to have a crisis. Alice in Borderland is a drama about surviving deadly games. And if you're going to watch this beautiful series, get ready for the third episode.
+            Just like in Squid Game, get ready for the sixth episode, because the drama takes place in Japan, and several people with very little money go into a survival game without being aware that it was survival. Seong Gi-Hun's childhood games become nightmares.</p>
+    <img src="https://cdn.realsport101.com/images/ncavvykf/epicstream/5591006d6bf0b8f30097746ae7ae70db0d30935a-640x360.jpg?rect=0,12,640,334&w=1172&h=612&auto=format" alt="yhgtytybthbtrbgtrbgr">
+    </div>
+    </div>
+</main>
+</body>
+</html>
