@@ -1,0 +1,49 @@
+.Titulos{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.space{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Títulos img{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    background-color: #97B1A6;
+
+}
+
+.logo img{
+    display: flex;
+    width: 20rem;
+}
+
+.Imagem1{
+    display: flex;
+    width: 150rem;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    margin-left: 2rem;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+}
