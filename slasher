@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+
+<body>
+
+
+    <img style="width: 100%;height:100%;" src="https://i.pinimg.com/736x/9d/19/aa/9d19aaa0bd4fa286d42b32dbf00ff69c.jpg" alt="ewfetrhrheheegrgr">
+
+    <div class="column">
+
+    <h2>Slasher</h2>
+
+
+
+    <p >01/22/2024</p>
+
+  
+
+    <div class="row">
+
+        <p>'Slasher' is a series about a psychopath who for trivial reasons kills his fellow man. The basis of the story is the murder in the 80's of the protagonist's parents. This psychopath was arrested and the development is with the daughter, in the present times returning to the parents' house and now, another psychopath starts to murder.
+            In this horror anthology, serial killers leave a trail of blood as their next targets give their all.</p>
+    <img src="https://4.bp.blogspot.com/-jnzEqmNNOEw/XNnSeDjUihI/AAAAAAAAIVY/s4Oj5HTLghghYTsA7e0OTXytqpp9uCnNwCLcBGAs/s1600/druid.png" alt="yhgtytybthbtrbgtrbgr">
+    </div>
+    </div>
+</main>
+</body>
+</html>
