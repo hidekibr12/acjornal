@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+
+<body>
+
+
+    <img style="width: 100%;height:100%;" src="https://picsum.photos/3000/400" alt="ewfetrhrheheegrgr">
+
+    <div class="coluna">
+
+    <h2>the smallest person in the world
+</h2>
+
+
+  
+
+    <div class="row">
+
+        <p>The Indian Jyoti Amge, 25, is exactly 62.8 centimeters tall. The 35-year-old Turkish Sultan Kosen has an astonishing 2.51 meters from head to toe. They are, respectively, the shortest woman and the tallest man in the world, according to "Guinness World Records". Last Friday, the two met at the Pyramids of Giza, in Egypt, where they got used to a photo session at the invitation of the Egyptian Tourism Promotion Council.</p>
+    <img src="https://ogimg.infoglobo.com.br/in/22343369-4f0-65e/FT1086A/74498777_Sultan-Kosen-from-Turkey-34-the-tallest-man-on-earth-according-to-the-Guinness-World-Record.jpg" alt="yhgtytybthbtrbgtrbgr">
+    </div>
+    </div>
+</main>
+</body>
+</html>
