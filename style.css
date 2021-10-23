@@ -35,15 +35,28 @@
 .row{
     display: flex;
     flex-direction: row;
+
+    align-items: center;
+
 }
 
 .column{
     display: flex;
     flex-direction: column;
-    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+
+
 }
 
 main{
     display: flex;
     flex-direction: row;
+}
+img{
+    width: 20rem;
+}
+
+a,img{
+    margin-bottom: 1rem;
 }
